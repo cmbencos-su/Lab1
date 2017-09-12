@@ -1,0 +1,53 @@
+html {
+    padding:0px;
+    margin:0px;
+}
+
+body {
+    padding:0px;
+    margin:0px;
+}
+
+.header {
+    height:60px;
+    line-height: 60px;
+    padding: 20px;
+    background-color: yellow;
+}
+
+h1 {
+    float: left;
+    margin: 0px;
+}
+
+ul {
+    float: right;
+    list-style: none;
+    margin:0px;
+    margin:0px;
+}
+
+ul li {
+    float: left;
+    margin-left:20px;
+}
+
+ul li a{
+    text-decoration-style: none;
+}
+
+.content {
+    width:70%;
+    float: left;
+    background-color: gray;
+    color: #ffffff;
+    min-height: 500px;
+}
+
+.sidebar {
+    min-height: 500px;
+}
+
+p {
+    margin: 20px;
+}
